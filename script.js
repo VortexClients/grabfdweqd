@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     trailerVideo.addEventListener("click", () => {
         if (trailerVideo) {
-            trailerVideo.innerHTML = `<iframe src="https://www.youtube.com/embed/QZfVihKGPUw?autoplay=1"title="Bloxd Awards Trailer "allow="autoplay; encrypted-media; picture-in-picture"allowfullscreen> </iframe>`;
+            trailerVideo.innerHTML = `<iframe src="https://www.youtube.com/embed/a50CCWSX7QI?autoplay=1"title="Bloxd Awards Trailer "allow="autoplay; encrypted-media; picture-in-picture"allowfullscreen> </iframe>`;
         }
     });
 
